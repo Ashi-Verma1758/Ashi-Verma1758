@@ -43,7 +43,6 @@
 
 ### 📌 Projects
 - 🔗 [Unimate – Team Up for Projects, Events & Hackathons](#)
-- 🔗 [AI Chatbot using Next.js & OpenAI API](#)
 - 🔗 [Portfolio Website](#)
 
 ---
