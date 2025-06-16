@@ -42,7 +42,6 @@
 ---
 
 ### 📌 Projects
-- 🔗 [Unimate – Team Up for Projects, Events & Hackathons](#)
 - 🔗 [Portfolio Website](#)
 
 ---
