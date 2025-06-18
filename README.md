@@ -36,7 +36,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashi-Verma1758&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashi-Verma1758layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashi-Verma1758&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
