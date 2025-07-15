@@ -43,7 +43,7 @@
 
 ### 📌 Projects
 
-- 🔗 [CareFinder – Hospital Bed Availability System](https://github.com/Ashi-Verma1758/CareFinder)
+- 🔗 [CareFinder – Hospital Bed Availability System](https://github.com/Ashi-Verma1758/CareFinder-MasterRepo)
 
 
 ---
